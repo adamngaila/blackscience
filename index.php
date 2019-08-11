@@ -232,7 +232,7 @@
                     </div>
                   </div>
                   <div class="team-descr font-alt">
-                    <div class="team-name">ADAM MWANGATILA</div>
+                    <div class="team-name">ADAM MWANGAILA</div>
                     <div class="team-role">INDUSTRIAL ENGINEER</div>
                   </div>
                 </div>
